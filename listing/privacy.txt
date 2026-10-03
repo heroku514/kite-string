@@ -1,0 +1,5 @@
+Kite String privacy
+
+Kite String stores the current string on this phone. The string is how many lengths are let out, from none through six.
+
+The app does not collect personal data. It does not use an account, ads, a camera, motion, or a network connection. Nothing is sent off the phone.

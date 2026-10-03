@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "KiteString",
+    "slug": "kite-string",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "scheme": "kitestring",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.peakermap.kitestring",
+      "buildNumber": "1",
+      "infoPlist": {
+        "CFBundleDisplayName": "Kite String",
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E0F2FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

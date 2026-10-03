@@ -1,0 +1,5 @@
+Kite String keeps a pretend kite string on the phone. Let it out one length at a time, up to six. Reel it in one length at a time. The huge line says how far the string is out.
+
+The string stays on this phone. Start a new kite when you want to hold it again.
+
+Kite String does not use an account, ads, a camera, a clock, motion, or a network connection. It does not fly a real kite and it does not read the wind. The string in the app is original.

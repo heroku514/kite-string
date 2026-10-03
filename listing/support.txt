@@ -1,0 +1,5 @@
+Kite String support
+
+Kite String keeps a pretend kite string. Tap Let it out or Reel it in. The huge line says how far the string is out.
+
+The string stays on this phone. The app does not use an account. For help, write to peaker.map@gmail.com.

@@ -11,6 +11,10 @@ Ship a free offline kite string for kids, families, and seniors. Six lengths sta
 3. Run the full simulator regression on the Release binary for build 1.
 4. Take three native screenshots, then upload that binary and submit it.
 
+## Result
+
+Build 1 is Waiting for Review under the store name Let the String. The phone shows Kite String. Submission `8e710dbd-2f59-47e1-b67a-d9eecdbd8cd2`. App Store id `6818784715`.
+
 ## Why this app
 
 Turn timers, picture lists, outing plans, dice, dinner answers, household places, tapped sentences, copy-the-line, room hunts, shape pairs, two-person poses, a week of walks, dressing choices, a shared orange, a window tally, and a tea tray are already in this pipeline. Kite flying games and the KiteField logbook already fill the store. This one does not use a clock, a camera, motion, or a network. The family lets a pretend string out and reels it back.

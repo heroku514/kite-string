@@ -1,4 +1,4 @@
-Kite String keeps a pretend kite string on the phone. Let it out one length at a time, up to six. Reel it in one length at a time. The huge line says how far the string is out.
+Let the String keeps a pretend kite string on the phone. The phone shows Kite String. Let it out one length at a time, up to six. Reel it in one length at a time. The huge line says how far the string is out.
 
 The string stays on this phone. Start a new kite when you want to hold it again.
 
